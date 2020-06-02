@@ -1,0 +1,2 @@
+# lix
+tienda de ropa
